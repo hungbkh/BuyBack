@@ -151,3 +151,4 @@ wissy;291.350168
 alysianation;150000.0
 gisilarhea;1918.529938
 teclaboleslav;2799.546601
+newshptx;632
